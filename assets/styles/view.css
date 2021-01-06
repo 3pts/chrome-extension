@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  margin: 0;
+}
+
+#target {
+  flex-grow: 1;
+}
