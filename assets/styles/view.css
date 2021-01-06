@@ -3,6 +3,12 @@ body {
   margin: 0;
 }
 
+#app3pts {
+  width: 400px;
+  border-width: 1px;
+}
+
 #target {
   flex-grow: 1;
+  border-width: 1px;
 }
