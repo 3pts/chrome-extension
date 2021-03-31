@@ -27,5 +27,5 @@ chrome.webRequest.onHeadersReceived.addListener(
         urls: [ '*://*/*' ],
         types: [ 'sub_frame' ]
     },
-    ['blocking', 'responseHeaders']
+    ['blocking', 'responseHeaders', 'extraHeaders']
 );
