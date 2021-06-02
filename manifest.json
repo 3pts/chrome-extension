@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "author": "3pts.dev",
   "name": "Scrum Poker App",
-  "version": "0.4",
+  "version": "0.5",
   "description": "Chrome Extension to open the Scrum Poker App side-by-side with JIRA, Backlog, Pivotal Tracker, Asana, LiquidPlanner, etc.",
   "icons": {
     "16": "assets/images/Icon-16.png",
